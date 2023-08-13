@@ -1,2 +1,2 @@
-# Pakuri-Program
+# Pakudex Project
 A python object oriented design allowed to add, show stats, evolve, organize, and manipulate pakuri being pokemon monsters
